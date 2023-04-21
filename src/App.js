@@ -5,7 +5,7 @@ import { Button, Upload } from 'antd';
 function App() {
   return (
     <div className="App">
-      <Upload action={"http://CwispyNoodles.github.io/cwispynoodle-gaming"}>
+      <Upload>
         <Button>
           Upload
         </Button>
